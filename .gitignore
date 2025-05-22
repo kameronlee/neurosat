@@ -1,0 +1,26 @@
+.DS_Store
+
+node_modules/
+dist/
+
+backend/target/
+backend/example/
+target/
+
+Cargo.lock
+
+lightclient/ModelMetadata
+lightclient/keys.json
+lightclient/models/test_model/data.csv
+backend/tx_validator/src/models/mnist/data.csv
+__pycache__/
+.vscode/
+
+lightclient2/
+lightclient3/
+
+RP Experiment/node_modules
+RP Experiment/dist
+**/*.csv
+lightclient/models_cache/last_validator_model
+lightclient/models_cache/python_bus
