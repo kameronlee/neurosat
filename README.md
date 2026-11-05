@@ -2,8 +2,6 @@
 
 We built NeuroSat for decentralized data processing across CubeSat swarms. Our system architecture builds on [FLoBC](https://github.com/Oschart/FLoBC), a blockchain-based federated learning framework.
 
-Kameron Lee founded the project and designed its satellite-swarm architecture.
-
 ## Swarm architecture
 
 We designed the swarm to train and use a shared model in orbit, with each CubeSat keeping its raw training data onboard.
